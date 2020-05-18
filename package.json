@@ -1,6 +1,6 @@
 {
   "name": "laraclothes-front",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -8,8 +8,11 @@
     "start": "next start"
   },
   "dependencies": {
+    "axios": "^0.19.2",
+    "babel-plugin-styled-components": "^1.10.7",
     "next": "9.4.1",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "styled-components": "^5.1.0"
   }
 }
